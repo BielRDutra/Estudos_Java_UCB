@@ -1,3 +1,4 @@
+package UCB;
 import java.util.Scanner; //Lembra do #include ? Faça esta associação por enquanto para conseguir ler.	
 
 
